@@ -11,5 +11,8 @@
   "type": "module",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^5.4.0"
   }
 }
